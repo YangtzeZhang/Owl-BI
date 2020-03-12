@@ -5288,7 +5288,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI', sans-serif;
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI', sans-serif;
   font-style:normal;
 }
 #u796 {
@@ -5299,7 +5299,7 @@
   width:489px;
   height:296px;
   display:flex;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI', sans-serif;
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI', sans-serif;
   font-style:normal;
 }
 #u796 .text {
@@ -5336,7 +5336,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI', sans-serif;
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -5350,7 +5350,7 @@
   width:448px;
   height:500px;
   display:flex;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI', sans-serif;
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -6857,7 +6857,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI', sans-serif;
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -6871,7 +6871,7 @@
   width:448px;
   height:50px;
   display:flex;
-  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI', sans-serif;
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:18px;

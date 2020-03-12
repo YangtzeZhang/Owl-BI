@@ -116,6 +116,9 @@
   font-size:18px;
   color:#666666;
 }
+._文本段落 {
+  text-align:left;
+}
 .icon {
 }
 .line {
