@@ -2,6 +2,6 @@
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="579px" height="252px" xmlns="http://www.w3.org/2000/svg">
   <g transform="matrix(1 0 0 1 -1676 -438 )">
     <path d="M 1677 442  A 3 3 0 0 1 1680 439 L 2251 439  A 3 3 0 0 1 2254 442 L 2254 686  A 3 3 0 0 1 2251 689 L 1680 689  A 3 3 0 0 1 1677 686 L 1677 442  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" fill-opacity="0.0980392156862745" />
-    <path d="M 1676.5 442  A 3.5 3.5 0 0 1 1680 438.5 L 2251 438.5  A 3.5 3.5 0 0 1 2254.5 442 L 2254.5 686  A 3.5 3.5 0 0 1 2251 689.5 L 1680 689.5  A 3.5 3.5 0 0 1 1676.5 686 L 1676.5 442  Z " stroke-width="1" stroke-dasharray="9,4" stroke="#f2f2f2" fill="none" stroke-dashoffset="0.5" />
+    <path d="M 1676.5 442  A 3.5 3.5 0 0 1 1680 438.5 L 2251 438.5  A 3.5 3.5 0 0 1 2254.5 442 L 2254.5 686  A 3.5 3.5 0 0 1 2251 689.5 L 1680 689.5  A 3.5 3.5 0 0 1 1676.5 686 L 1676.5 442  Z " stroke-width="1" stroke-dasharray="9,4" stroke="#d7d7d7" fill="none" stroke-dashoffset="0.5" />
   </g>
 </svg>
